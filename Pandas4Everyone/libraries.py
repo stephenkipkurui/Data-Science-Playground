@@ -13,5 +13,5 @@ import warnings
 warnings.filterwarnings('ignore')
 
 plt.rcParams["figure.figsize"] = (20, 10)
-sns.set(rc={'figure.figsize':(20,10)})
+sns.set(rc={'figure.figsize':(13,6)})
 
